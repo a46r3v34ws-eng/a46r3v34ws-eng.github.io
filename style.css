@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@font-face {font-family: Oxygene2; src: url('https://gdcolon.com/assets/Oxygene2.ttf')}
+@font-face {font-family: Pusab; src: url('https://gdcolon.com/assets/Pusab.ttf')}
+
+{
+  font-weight: normal;
+  margin: 0 0;
+  font-family: Pusab, Arial;
+}
